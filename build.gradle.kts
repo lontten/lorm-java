@@ -2,7 +2,7 @@ plugins {
     id("java")
 }
 
-group = "com.lontten"
+group = "com.lontten.lorm"
 version = "1.0-SNAPSHOT"
 
 repositories {
